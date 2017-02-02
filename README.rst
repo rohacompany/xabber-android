@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/rohacompany/xabber-android.svg)](https://jitpack.io/#rohacompany/xabber-android)
+
 Xabber - XMPP client for Android
 ================================
 
